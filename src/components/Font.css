@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Dance_font;
+    src: url("../Fonts/static/DancingScript-Bold.ttf");
+}
+.ft_face{
+    font-family: Dance_font;
+    font-size: 30px;
+}
+@font-face {
+    font-family: Berkshire;
+    src: url("../Fonts/Berkshire_Swash/BerkshireSwash-Regular.ttf");
+}
+.ft_face1{
+    font-family: Berkshire;
+    font-size: 30px;
+}

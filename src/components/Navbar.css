@@ -1,0 +1,9 @@
+.divdata{
+     position :relative;
+   
+}
+.data1{
+    font-weight:500;
+    position: absolute;
+right:20px;
+}
